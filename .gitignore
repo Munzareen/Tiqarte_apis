@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/**
+/BusinesEntities/bin/**
+/BusinesEntities/obj/**
+/WebAPI/obj/**
+/DAL/obj/Debug/DAL.pdb
+/DAL/obj/Debug/DAL.dll
+/DAL/obj/Debug/DAL.csproj.AssemblyReference.cache
+/WebAPI/obj/Debug/WebAPI.pdb
+/WebAPI/obj/Debug/WebAPI.dll
+/WebAPI/obj/Debug/WebAPI.csproj.AssemblyReference.cache
+/WebAPI/bin/WebAPI.pdb
+/WebAPI/bin/WebAPI.dll
+/WebAPI/bin/DAL.pdb
+/WebAPI/bin/DAL.dll
+/WebAPI/bin/BusinesEntities.pdb
+/WebAPI/bin/BusinesEntities.dll
+/DAL/bin/Debug
+/WebAPI/obj/Debug/WebAPI.csproj.GenerateResource.cache

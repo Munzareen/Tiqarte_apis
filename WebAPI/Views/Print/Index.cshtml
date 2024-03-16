@@ -1,0 +1,199 @@
+﻿@model BusinesEntities.Order
+@{
+    Layout = null;
+}
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<title>Zulfiqar Jewellers Print </title>
+<!------ Include the above in your HEAD tag ---------->
+<style>
+    .invoice-title h2, .invoice-title h3 {
+        display: inline-block;
+    }
+
+    .table > tbody > tr > .no-line {
+        border-top: none;
+    }
+
+    .table > thead > tr > .no-line {
+        border-bottom: none;
+    }
+
+    .table > tbody > tr > .thick-line {
+        border-top: 2px solid;
+    }
+</style>
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12">
+            <h2 class="text-center"> Sky Gold Chain </h2>
+        </div>
+        <div class="col-xs-12">
+            <div class="invoice-title">
+                <h3 style="margin:35px 0 0 0" class="pull-right">Order #  @Model.OrderId</h3>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-xs-6">
+                    <address>
+                        <strong>Billed To:</strong><br>
+                        @Model.AccountMaster.Name  @Model.AccountMaster.LastName<br>
+                        @Model.AccountMaster.Address<br>
+                        @Model.AccountMaster.Phone,
+                        @Model.AccountMaster.Email
+                        <br />
+                        <strong>Order Take by:</strong><br>
+                        @Model.UserName<br>
+                    </address>
+                </div>
+                <div class="col-xs-6 text-right">
+                    <address>
+                        <strong>Order Date: &nbsp;&nbsp;&nbsp; </strong><br>
+                        @Model.OrderDate.ToString("MMMM") @Model.OrderDate.ToString("dd") , @Model.OrderDate.ToString("yyyy") <br><br>
+
+                        <strong>Due Date:</strong><br>
+                        @Model.PromiseDate.ToString("MMMM") @Model.PromiseDate.ToString("dd") , @Model.PromiseDate.ToString("yyyy") <br><br>
+                        <br><br>
+                    </address>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title"><strong>Order summary</strong></h3>
+                </div>
+                <div class="panel-body">
+                    <div>
+                        <table class="table table-condensed table-responsive table-hover table-bordered">
+                            <thead>
+                                <tr>
+                                    <th><strong>Img</strong></th>
+                                    <th><strong>Item</strong></th>
+                                    <th><strong>Ratti</strong></th>
+                                    <th class="text-center"><strong>Size/Qty/Weight </strong></th>
+                                    <th class="text-center"><strong>Department</strong></th>
+                                    <th style="font-weight:bold; text-align:center;">Description</th>
+                                </tr>
+                            </thead>
+                            @{
+                                decimal sum = 0.00m;
+                                decimal total = 0.00m;
+                                <tbody>
+                                    @foreach (var item in Model.OrderDetailsPrint)
+                                    {
+                                        sum = 0;
+                                        <tr>
+                                            @*@if (@item.orderImage != null)*@
+                                            @if (@item.images!= null)
+                                            {
+                                            <td>
+                                                <div class="boxs" id="myImg">
+                                                    <div class="frame">
+                                                        @foreach (var img in item.images)
+                                                        {
+                                                            string imgpath = "/ItemsImage/" + @img.ImageName;
+                                                            <img src="@imgpath" onclick="clickMe('@imgpath')" class="zooms" style="width:100px;height:100px" alt="Alternate Text" />
+
+                                                        }
+                                                        @*<img src="@item.orderImage" onclick="clickMe('@item.orderImage')" class="zooms" style="width:100px;height:100px" alt="Alternate Text" />*@
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            }
+                                            else if (@item.Item.FilePath != null)
+                                            {
+                                            <td>
+                                                <div class="boxs" id="myImg">
+                                                    <div class="frame">
+                                                        <img src="@item.Item.FilePath" onclick="clickMe('@item.Item.FilePath')" class="zooms" style="width: 100px; height: 100px" alt="Alternate Text" />
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            }
+                                            else
+                                            {
+                                            <td>
+                                                <img src="https://thumbs.dreamstime.com/b/no-image-available-icon-photo-camera-flat-vector-illustration-132483141.jpg" style="width:55px;height:55px" alt="Alternate Text" />
+                                            </td>
+                                            }
+                                            <td>@item.Item.Name</td>
+                                            <td>@item.Ratti</td>
+                                            <td class="text-center">
+                                                @foreach (var item1 in item.sizeQtyWeight)
+                                                {
+                                                    <p>@item1.sizeQuantity<span style="font-weight:bolder;">/@item1.weight </span></p>
+                                                }
+                                            </td>
+                                            <td class="text-center">@item.DepartmentName</td>
+                                            <td style="max-width:35rem;">
+                                                <span class="descriptionText">
+                                                    @item.Description
+                                                </span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="text-center">
+                                                @{
+                                                    foreach (var x in item.sizeQtyWeight)
+                                                    {
+                                                        sum += x.weight;
+                                                    }
+                                                    total += sum;
+                                                }
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                                <tfoot>
+                                    <tr>
+                                        <td colspan="3" class="text-right">
+                                            <strong>Gross Weight</strong>
+                                        </td>
+                                        <td class="text-center">
+                                            <strong> @total </strong>
+                                        </td>
+                                    </tr>
+                                </tfoot>
+                            }
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-6">
+            <address>
+                <strong>Phono No:</strong><br>
+                (+92)3107942205
+            </address>
+        </div>
+        <div class="col-xs-6 text-right">
+            <address>
+                <strong>Links</strong><br>
+                <span style="">   http://zulfiqarjeweller.com/ <br></span>
+                https://www.facebook.com/zulfiqarjewellers.SGD/ <br>
+                https://www.instagram.com/zulfiqarjewellers.sgd/ <br>
+            </address>
+        </div>
+    </div>
+</div>
+
+<style>
+    .descriptionText {
+        word-wrap: break-word;
+        text-align: justify;
+    }
+</style>
+
+<script>
+    function clickMe(id) {
+        window.open(id, "_blank")
+    }
+</script>

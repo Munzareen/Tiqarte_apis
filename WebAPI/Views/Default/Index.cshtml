@@ -1,0 +1,440 @@
+﻿
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<style>
+    .jumbotron {
+        padding-top:2rem;
+        margin-bottom:0px;
+    }
+    .btn-info{
+        background:rgb(17, 96, 100) !important;
+    }
+    .bg-white{
+        background:white !important;
+
+    } 
+    .text-white{
+        color:white !important;
+
+    }
+    .btn-white{
+        background:white !important;
+
+    }
+     .bg-info{
+        background:rgb(17, 96, 100) !important;
+    }
+     .btn-warning{
+         background:rgb(226, 135, 5) !important;
+     }
+     .navbar-light{
+         color:white !important;
+     }
+</style>
+</head>
+
+<body>
+
+    <!-- #region Nav bar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-info py-1" style="color:white">
+        <a class="navbar-brand" href="#">
+            <img src="~/Content/assets/Images/college/logo2.PNG" alt="Logo">
+        </a>
+        <button class="navbar-toggler" style="color:white" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse text-white  " id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#" style="color:white"> <b style=" ">Home</b> <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" style="color:white">PHD COURSES</a>
+                </li>
+                <li class="nav-item" style="color:white">
+                    <a class="nav-link" style="color:white" href="#">DISTANCE LEARNING PROGRAMME</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link disabled" style="color:white" href="#">UPSKILLING COURSES</a>
+                </li>
+            </ul>
+
+        </div>
+        <div class="navbar-nav">
+            <img style="cursor:pointer" src="~/Content/assets/Images/college/btnLogo.PNG" />
+        </div>
+    </nav>
+    <!-- #endNav vbar -->
+    <!--slider-->
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner" style="height: 450px;">
+            <div class="carousel-item active">
+                <img class="d-block w-100" src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22800%22%20height%3D%22400%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20400%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_17090f5d499%20text%20%7B%20fill%3A%23555%3Bfont-weight%3Anormal%3Bfont-family%3AHelvetica%2C%20monospace%3Bfont-size%3A40pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_17090f5d499%22%3E%3Crect%20width%3D%22800%22%20height%3D%22400%22%20fill%3D%22%23777%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22285.9140625%22%20y%3D%22217.7%22%3EFirst%20slide%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="First slide">
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22800%22%20height%3D%22400%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20400%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_17090f5d499%20text%20%7B%20fill%3A%23555%3Bfont-weight%3Anormal%3Bfont-family%3AHelvetica%2C%20monospace%3Bfont-size%3A40pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_17090f5d499%22%3E%3Crect%20width%3D%22800%22%20height%3D%22400%22%20fill%3D%22%23777%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22285.9140625%22%20y%3D%22217.7%22%3EFirst%20slide%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Second slide">
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100" src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22800%22%20height%3D%22400%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20400%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_17090f5d499%20text%20%7B%20fill%3A%23555%3Bfont-weight%3Anormal%3Bfont-family%3AHelvetica%2C%20monospace%3Bfont-size%3A40pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_17090f5d499%22%3E%3Crect%20width%3D%22800%22%20height%3D%22400%22%20fill%3D%22%23777%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22285.9140625%22%20y%3D%22217.7%22%3EFirst%20slide%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Third slide">
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+    <!--end slider-->
+    <div class="container mt-5 mb-2">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h3> In 2010 , the United da asida asldjiasjd alksdjas ldfn  da asldjiasjd alksdjas ldfn  da asldjiasjd alksdjas ldfn  lsdfj sdlkfjsdkf kskdfjsd  alskdjak alkjda jaklsdj</h3>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <hr />
+            </div>
+
+        </div>
+        <div class="row py-3">
+            <div class="col-md-4">
+                <div class="d-flex flex-row ">
+                    <div class="py-3 px-3 ">
+                        <img class="d-inline" src="~/Content/assets/Icon/tv.PNG" />
+                    </div>
+                    <div class="py-3">
+                        <h4 class=" ">  1000 Onlice cources</h4>
+                        <span class="">  1000 Onlice cources</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="d-flex flex-row ">
+                    <div class="py-3 px-3 ">
+                        <img class="d-inline" src="~/Content/assets/Icon/exist.png" />
+                    </div>
+                    <div class="py-3">
+                        <h4 class=" ">  1000 Onlice cources</h4>
+                        <span class="">  1000 Onlice cources</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="d-flex flex-row ">
+                    <div class="py-3 px-3 ">
+                        <img class="d-inline" src="~/Content/assets/Icon/life.png" />
+                    </div>
+                    <div class="py-3">
+                        <h4 class=" ">  1000 Onlice cources</h4>
+                        <span class="">  1000 Onlice cources</span>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+        
+    </div>
+    <!--start brows course-->
+    <section class="jumbotron" >
+        <div class="container text-center ">
+            <h4> Brows  Course</h4>
+            <div class="row mt-4">
+                <div class="col-md-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="~/Content/assets/Icon/d-learing.PNG" />
+                            <h6 class="my-3">Distance Learing program</h6>
+                            <div class="card bg-info text-white py-2">
+                                <p style="line-height:3px" class="mt-2">askdlhas asdjkas akjsdh</p>
+                                <p style="line-height:3px">askdlhas asdjkas akjsdh</p>
+                                <div>
+                                    <button class="btn btn-white bg-white btn-sm "> View here</button>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="~/Content/assets/Icon/program.PNG" />
+                            <h6 class="my-3">Distance Learing program</h6>
+                            <div class="card bg-info text-white py-2">
+                                <p style="line-height:3px" class="mt-2">askdlhas asdjkas akjsdh</p>
+                                <p style="line-height:3px">askdlhas asdjkas akjsdh</p>
+                                <div>
+                                    <button class="btn btn-white btn-sm "> View here</button>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="~/Content/assets/Icon/d-learing.PNG" />
+
+                            <h6 class="my-3">Distance Learing program</h6>
+                            <div class="card bg-info text-white py-2">
+                                <p style="line-height:3px" class="mt-2">askdlhas asdjkas akjsdh</p>
+                                <p style="line-height:3px">askdlhas asdjkas akjsdh</p>
+                                <div>
+                                    <button class="btn btn-white btn-sm "> View here</button>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="~/Content/assets/Icon/program.PNG" />
+
+                            <h6 class="my-3">Distance Learing program</h6>
+                            <div class="card bg-info text-white py-2">
+                                <p style="line-height:3px" class="mt-2 ">askdlhas asdjkas akjsdh</p>
+                                <p style="line-height:3px">askdlhas asdjkas akjsdh</p>
+                                <div>
+                                    <button class="btn btn-white btn-sm "> View here</button>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!--end brow course-->
+    <!--Distance learing Top COllege-->
+    <section class="bg-light ">
+        <div class="container  text-center">
+            <h4 class="pt-4"> Distance learing Top College in Indai</h4>
+            @for (int i = 0; i < 2; i++)
+            {
+                <div class="row mt-5 text-white">
+                    <div class="col">
+                        <div class="card">
+                            <div class="card-body">
+                                <img src="~/Content/assets/Images/college/a.PNG" />
+                            </div>
+                            <div class="bg-info text-white d-block" style="height:60px">
+                                Indira Gandhi National
+                                    
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card">
+                            <div class="card-body">
+                                <img src="~/Content/assets/Images/college/c.PNG" />
+                            </div>
+                            <div class="bg-info d-block" style="height: 60px ">
+                                Indira Gandhi National
+                                Open Univerty
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                         <div class="card">
+                            <div class="card-body">
+                                <img src="~/Content/assets/Images/college/c.PNG" />
+                            </div>
+                            <div class="bg-info d-block" style="height: 60px ">
+                                Indira Gandhi National
+                                Open Univerty
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card">
+                            <div class="card-body">
+                                <img src="~/Content/assets/Images/college/b.PNG" />
+                            </div>
+                            <div class="bg-info  d-block" style="height:60px">
+                                Indira Gandhi National
+                                Open Univerty
+                            </div>
+                        </div>
+                    </div>
+          
+
+                </div>
+
+            }
+            <div class="row py-3">
+                <div class="col-md-12">
+                    <button class="btn btn-warning text-white"> Contact Us</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--upcomming skill-->
+    <section class="py-5 ">
+        <div class="container text-center  ">
+            <h4> Upcomming Skill </h4>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <ul style="list-style: none;">
+                        <li>web deb</li>
+                        <li>web deb</li>
+                        <li>web deb</li>
+                        <li>web deb</li>
+                        <li>web deb</li>
+                        <li>web deb</li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul style="list-style: none;">
+                        <li>web deb</li>
+                        <li>web deb</li>
+                        <li>web deb</li>
+                        <li>web deb</li>
+                        <li>web deb</li>
+                        <li>web deb</li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul style="list-style: none;">
+                        <li>web deb</li>
+                        <li>web deb</li>
+                        <li>web deb</li>
+                        <li>web deb</li>
+                        <li>web deb</li>
+                        <li>web deb</li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <div class="container mb-4">
+        <div class="row text-center">
+            <div class="col-md-12">
+                <button class="btn btn-warning text-white"> View Other Course</button>
+            </div>
+        </div>
+    </div>
+    <!--end upcoming  skill-->
+    <!-- Lates Update-->
+    <div class="container-fluid  pb-4  bg-info ">
+        <div class="row py-4 ">
+            <div class="text-center">
+                <h3 class=" text-white " style="margin: 0 0px 7px 524px;">Latest Update</h3>
+            </div>
+            <div class="col-md-12">
+                <div class="container">
+                    <div class="row mt-2">
+                        <div class="col-md-6">
+                            <div class="card">
+                                <div class="card-body">
+                                    <div class="row mt-2">
+
+                                        <div class="col-md-6">
+                                            <h5 class="card-title">Special title treatment</h5>
+
+                                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                            <a href="#" class="btn btn-warning text-white">View here</a>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <img class="img-fluid img-responsive" src="~/Content/assets/Images/college/arrow.PNG" />
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card">
+                                <div class="card-body">
+                                    <div class="row mt-2">
+
+                                        <div class="col-md-6">
+                                            <h5 class="card-title">Special title treatment</h5>
+
+                                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                            <a href="#" class="btn btn-warning text-white">View here</a>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <img class="img-fluid img-responsive" src="~/Content/assets/Images/college/arrow.PNG" />
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row mt-2">
+                        <div class="col-md-6">
+                            <div class="card">
+                                <div class="card-body">
+                                    <div class="row mt-2">
+
+                                        <div class="col-md-6">
+                                            <h5 class="card-title">Special title treatment</h5>
+
+                                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                            <a href="#" class="btn btn-warning text-white">View here</a>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <img class="img-fluid img-responsive" src="~/Content/assets/Images/college/arrow.PNG" />
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card">
+                                <div class="card-body">
+                                    <div class="row mt-2">
+
+                                        <div class="col-md-6">
+                                            <h5 class="card-title">Special title treatment</h5>
+
+                                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                                            <a href="#" class="btn btn-warning text-white">View here</a>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <img class="img-fluid img-responsive" src="~/Content/assets/Images/college/arrow.PNG" />
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="mt-5">
+        <img class="img-fluid" src="~/Content/assets/Images/college/footor.PNG" />
+<br />
+    </div>
+    <!-- end Lates Update-->
+
+
+</body>
+</html>

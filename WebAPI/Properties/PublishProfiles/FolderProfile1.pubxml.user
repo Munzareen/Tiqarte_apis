@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\HP\Documents\ApiPublish</_PublishTargetUrl>
+    <History>True|2022-08-03T06:56:12.5183190Z;True|2022-08-02T22:25:24.0349717+05:00;True|2022-08-02T22:24:56.3518202+05:00;True|2022-08-02T22:24:15.2399397+05:00;True|2022-08-01T22:47:31.1162045+05:00;True|2022-07-28T14:23:30.7868137+05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Areas/HelpPage/HelpPage.css">
+      <publishTime>11/27/2019 11:57:18</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/Api.cshtml">
+      <publishTime>11/27/2019 11:57:18</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml">
+      <publishTime>11/27/2019 11:57:18</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml">
+      <publishTime>11/27/2019 11:57:18</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml">
+      <publishTime>11/27/2019 11:57:18</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml">
+      <publishTime>11/27/2019 11:57:18</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml">
+      <publishTime>11/27/2019 11:57:18</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml">
+      <publishTime>11/27/2019 11:57:18</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml">
+      <publishTime>11/27/2019 11:57:19</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/Index.cshtml">
+      <publishTime>11/27/2019 11:57:18</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Shared/_Layout.cshtml">
+      <publishTime>11/27/2019 11:57:19</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Web.config">
+      <publishTime>11/27/2019 11:57:18</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/_ViewStart.cshtml">
+      <publishTime>11/27/2019 11:57:18</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>03/01/2021 15:12:39</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>03/01/2021 15:12:39</publishTime>
+    </File>
+    <File Include="bin/BusinesEntities.dll">
+      <publishTime>08/03/2022 11:56:07</publishTime>
+    </File>
+    <File Include="bin/BusinesEntities.pdb">
+      <publishTime>08/03/2022 11:56:07</publishTime>
+    </File>
+    <File Include="bin/DAL.dll">
+      <publishTime>08/03/2022 11:56:09</publishTime>
+    </File>
+    <File Include="bin/DAL.pdb">
+      <publishTime>08/03/2022 11:56:09</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>12/19/2014 08:43:00</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>12/19/2014 08:43:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>03/01/2021 15:12:53</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>03/01/2021 15:12:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>03/01/2021 15:12:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Cors.dll">
+      <publishTime>03/01/2021 15:13:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>03/01/2021 15:13:27</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>03/01/2021 15:13:31</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>03/01/2021 15:13:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>03/01/2021 15:13:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>03/01/2021 15:13:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>03/01/2021 15:13:40</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/01/2021 15:13:50</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>03/01/2021 15:13:52</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>03/01/2021 15:13:13</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>03/01/2021 15:12:51</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>03/01/2021 15:13:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>03/01/2021 15:13:17</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>03/01/2021 15:13:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>03/01/2021 15:13:21</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>03/01/2021 15:13:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>03/01/2021 15:13:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>03/01/2021 15:13:05</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>03/01/2021 15:13:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>03/01/2021 15:13:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>03/01/2021 15:13:24</publishTime>
+    </File>
+    <File Include="bin/WebAPI.dll">
+      <publishTime>08/03/2022 11:56:10</publishTime>
+    </File>
+    <File Include="bin/WebAPI.pdb">
+      <publishTime>08/03/2022 11:56:10</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>03/01/2021 15:13:59</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>11/27/2019 11:57:17</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>11/27/2019 12:02:25</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>11/27/2019 12:02:25</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>11/27/2019 12:02:25</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>11/27/2019 12:02:25</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>11/27/2019 11:57:17</publishTime>
+    </File>
+    <File Include="HtmlPage1.html">
+      <publishTime>01/25/2020 18:19:21</publishTime>
+    </File>
+    <File Include="ItemsImage/ajax-loade221407800.gif">
+      <publishTime>05/12/2022 12:27:33</publishTime>
+    </File>
+    <File Include="ItemsImage/ajax-loade221740134.gif">
+      <publishTime>05/12/2022 12:27:33</publishTime>
+    </File>
+    <File Include="ItemsImage/Person_11221444241.png">
+      <publishTime>05/12/2022 12:27:33</publishTime>
+    </File>
+    <File Include="ItemsImage/Person_11222324035.png">
+      <publishTime>05/12/2022 12:27:33</publishTime>
+    </File>
+    <File Include="ItemsImage/Person_15221451291.png">
+      <publishTime>05/12/2022 12:27:33</publishTime>
+    </File>
+    <File Include="ItemsImage/Person_5223254748.jpg">
+      <publishTime>05/12/2022 12:27:33</publishTime>
+    </File>
+    <File Include="ItemsImage/Person_6222315775.jpg">
+      <publishTime>05/12/2022 12:27:33</publishTime>
+    </File>
+    <File Include="ItemsImage/Person_9225825612.png">
+      <publishTime>05/12/2022 12:27:33</publishTime>
+    </File>
+    <File Include="ItemsImage/preloader_222335515.gif">
+      <publishTime>05/12/2022 12:27:33</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>07/25/2022 18:34:08</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>11/27/2019 12:07:17</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>11/27/2019 12:07:17</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>11/27/2019 12:07:17</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>11/27/2019 12:07:17</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>11/27/2019 12:07:17</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>11/27/2019 12:07:17</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>11/27/2019 12:07:17</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>11/27/2019 12:07:17</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>11/27/2019 12:07:17</publishTime>
+    </File>
+    <File Include="Views/AccountTypes/Create.cshtml">
+      <publishTime>02/20/2020 13:19:41</publishTime>
+    </File>
+    <File Include="Views/AccountTypes/Delete.cshtml">
+      <publishTime>11/27/2019 12:07:17</publishTime>
+    </File>
+    <File Include="Views/AccountTypes/Details.cshtml">
+      <publishTime>11/27/2019 12:07:17</publishTime>
+    </File>
+    <File Include="Views/AccountTypes/Edit.cshtml">
+      <publishTime>11/27/2019 12:07:17</publishTime>
+    </File>
+    <File Include="Views/AccountTypes/Index.cshtml">
+      <publishTime>11/27/2019 12:07:17</publishTime>
+    </File>
+    <File Include="Views/Cities/Create.cshtml">
+      <publishTime>04/07/2020 17:43:10</publishTime>
+    </File>
+    <File Include="Views/Cities/Delete.cshtml">
+      <publishTime>11/25/2019 17:07:48</publishTime>
+    </File>
+    <File Include="Views/Cities/Details.cshtml">
+      <publishTime>11/25/2019 17:07:52</publishTime>
+    </File>
+    <File Include="Views/Cities/Edit.cshtml">
+      <publishTime>11/25/2019 17:07:54</publishTime>
+    </File>
+    <File Include="Views/Cities/Index.cshtml">
+      <publishTime>11/25/2019 17:07:57</publishTime>
+    </File>
+    <File Include="Views/Countries1/Create.cshtml">
+      <publishTime>11/25/2019 17:08:47</publishTime>
+    </File>
+    <File Include="Views/Countries1/Delete.cshtml">
+      <publishTime>11/25/2019 17:08:49</publishTime>
+    </File>
+    <File Include="Views/Countries1/Details.cshtml">
+      <publishTime>11/25/2019 17:08:52</publishTime>
+    </File>
+    <File Include="Views/Countries1/Edit.cshtml">
+      <publishTime>11/25/2019 17:08:54</publishTime>
+    </File>
+    <File Include="Views/Countries1/Index.cshtml">
+      <publishTime>11/25/2019 17:08:57</publishTime>
+    </File>
+    <File Include="Views/Default/Index.cshtml">
+      <publishTime>03/05/2020 18:37:23</publishTime>
+    </File>
+    <File Include="Views/Grades/Create.cshtml">
+      <publishTime>01/22/2020 13:45:02</publishTime>
+    </File>
+    <File Include="Views/Grades/Delete.cshtml">
+      <publishTime>11/27/2019 12:07:17</publishTime>
+    </File>
+    <File Include="Views/Grades/Details.cshtml">
+      <publishTime>11/27/2019 12:07:17</publishTime>
+    </File>
+    <File Include="Views/Grades/Edit.cshtml">
+      <publishTime>11/27/2019 12:07:17</publishTime>
+    </File>
+    <File Include="Views/Grades/Index.cshtml">
+      <publishTime>11/27/2019 12:07:18</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>07/21/2022 16:46:04</publishTime>
+    </File>
+    <File Include="Views/OrderDetails/Create.cshtml">
+      <publishTime>09/03/2020 17:42:51</publishTime>
+    </File>
+    <File Include="Views/OrderDetails/Delete.cshtml">
+      <publishTime>03/25/2020 20:04:17</publishTime>
+    </File>
+    <File Include="Views/OrderDetails/Details.cshtml">
+      <publishTime>03/25/2020 20:04:22</publishTime>
+    </File>
+    <File Include="Views/OrderDetails/Edit.cshtml">
+      <publishTime>03/25/2020 20:04:26</publishTime>
+    </File>
+    <File Include="Views/OrderDetails/Index.cshtml">
+      <publishTime>03/25/2020 20:04:30</publishTime>
+    </File>
+    <File Include="Views/Print/Index.cshtml">
+      <publishTime>08/03/2022 11:46:46</publishTime>
+    </File>
+    <File Include="Views/Purchases1/Create.cshtml">
+      <publishTime>11/27/2019 12:07:18</publishTime>
+    </File>
+    <File Include="Views/Purchases1/Delete.cshtml">
+      <publishTime>11/27/2019 12:07:18</publishTime>
+    </File>
+    <File Include="Views/Purchases1/Details.cshtml">
+      <publishTime>11/27/2019 12:07:18</publishTime>
+    </File>
+    <File Include="Views/Purchases1/Edit.cshtml">
+      <publishTime>11/27/2019 12:07:18</publishTime>
+    </File>
+    <File Include="Views/Purchases1/Index.cshtml">
+      <publishTime>11/27/2019 12:07:18</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>02/25/2020 18:47:17</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>02/25/2020 18:47:18</publishTime>
+    </File>
+    <File Include="Views/Students/Create.cshtml">
+      <publishTime>11/27/2019 12:07:18</publishTime>
+    </File>
+    <File Include="Views/Students/Delete.cshtml">
+      <publishTime>11/27/2019 12:07:18</publishTime>
+    </File>
+    <File Include="Views/Students/Details.cshtml">
+      <publishTime>11/27/2019 12:07:18</publishTime>
+    </File>
+    <File Include="Views/Students/Edit.cshtml">
+      <publishTime>11/27/2019 12:07:18</publishTime>
+    </File>
+    <File Include="Views/Students/Index.cshtml">
+      <publishTime>11/27/2019 12:07:18</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>11/27/2019 12:07:17</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>11/27/2019 12:07:17</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/03/2022 11:56:11</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

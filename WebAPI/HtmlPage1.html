@@ -1,0 +1,115 @@
+﻿<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+    <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.js"></script>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>visa no </th>
+            <th>country</th>
+            <th>category</th>
+        </tr>
+        <tr>
+            <td>123456</td>
+            <td>pakistan</td>
+            <td>plumber</td>
+        </tr>
+
+        <tr>
+            <td>123456</td>
+            <td>pakistan</td>
+            <td>plumber</td>
+        </tr>
+
+        <tr>
+            <td>654321</td>
+            <td>india</td>
+            <td>plumber</td>
+        </tr>
+
+        <tr>
+            <td>654321</td>
+            <td>india</td>
+            <td>plumber</td>
+        </tr>
+
+        <tr>
+            <td>654321</td>
+            <td>india</td>
+            <td>plumber</td>
+        </tr>
+
+    </table>
+
+
+</body>
+</html>
+<script>
+$(document).ready(function(){
+
+var id = 0;
+var id2 =0;
+var id3 =0;
+var el = {};
+var countd=1;
+
+   $("tbody tr").each(function() {
+
+        // get row
+        var row = $(this);
+        // get first and second td
+        var first = row.find('td:first-child').text();
+        var second = row.find('td:nth-child(2)').text();
+        //if exists, remove the tr
+        if(el[first + second]) {
+            $(this).remove();
+
+            alert("count data1 "+ $(this).row)
+
+        }
+        else {
+
+            // alert(countd);
+            // if it does not exist, add it with some random val
+            el[first + second] = true;
+        }
+
+
+
+   });
+});
+
+</script>
+
+
+
+
+
+
+
+
+
+<script>
+//$(document).ready(function(){
+//array_elements = ['a', 'b', 'c', 'd', 'e', 'a', 'b', 'c', 'f', 'g', 'h', 'h', 'h', 'e', 'a'];
+//array_elements.sort();
+//var total= null;
+//var cnt = 0;
+//for(var i =0; i<array_elements.length; i++){
+
+//if(cnt>0){
+//document.write(cnt);
+
+//}else{
+//total = array_elements[i];
+//cnt =1;
+
+//}
+//cnt++;
+//}
+
+//});
+//</script>

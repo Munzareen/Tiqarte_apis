@@ -1,0 +1,297 @@
+E:\All Jewl\SaleemCasting\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\All Jewl\SaleemCasting\DAL\bin\Release\DAL.dll
+E:\All Jewl\SaleemCasting\DAL\bin\Release\DAL.pdb
+E:\All Jewl\SaleemCasting\DAL\bin\Release\BusinessEntities.dll
+E:\All Jewl\SaleemCasting\DAL\bin\Release\BusinessEntities.pdb
+E:\All Jewl\SaleemCasting\DAL\obj\Release\DAL.dll
+E:\All Jewl\SaleemCasting\DAL\obj\Release\DAL.pdb
+E:\Bringoo\SaleemCasting\DAL\bin\Release\DAL.dll
+E:\Bringoo\SaleemCasting\DAL\bin\Release\DAL.pdb
+E:\Bringoo\SaleemCasting\DAL\bin\Release\BusinessEntities.dll
+E:\Bringoo\SaleemCasting\DAL\bin\Release\BusinessEntities.pdb
+E:\Bringoo\SaleemCasting\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\Bringoo\SaleemCasting\DAL\obj\Release\DAL.dll
+E:\Bringoo\SaleemCasting\DAL\obj\Release\DAL.pdb
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\SaleemCasting\DAL\bin\Release\DAL.dll
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\SaleemCasting\DAL\bin\Release\DAL.pdb
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\SaleemCasting\DAL\bin\Release\BusinessEntities.dll
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\SaleemCasting\DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\SaleemCasting\DAL\bin\Release\BusinessEntities.pdb
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\SaleemCasting\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\SaleemCasting\DAL\obj\Release\DAL.dll
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\SaleemCasting\DAL\obj\Release\DAL.pdb
+E:\SaleemCasting\DAL\bin\Release\DAL.dll
+E:\SaleemCasting\DAL\bin\Release\DAL.pdb
+E:\SaleemCasting\DAL\bin\Release\BusinessEntities.dll
+E:\SaleemCasting\DAL\bin\Release\Newtonsoft.Json.dll
+E:\SaleemCasting\DAL\bin\Release\BusinessEntities.pdb
+E:\SaleemCasting\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\SaleemCasting\DAL\obj\Release\DAL.dll
+E:\SaleemCasting\DAL\obj\Release\DAL.pdb
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Casting\Afzal Casting\DAL\bin\Release\DAL.dll
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Casting\Afzal Casting\DAL\bin\Release\DAL.pdb
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Casting\Afzal Casting\DAL\bin\Release\BusinessEntities.dll
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Casting\Afzal Casting\DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Casting\Afzal Casting\DAL\bin\Release\BusinessEntities.pdb
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Casting\Afzal Casting\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Casting\Afzal Casting\DAL\obj\Release\DAL.dll
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Casting\Afzal Casting\DAL\obj\Release\DAL.pdb
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Casting\KarachiCasting\DAL\bin\Release\DAL.dll
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Casting\KarachiCasting\DAL\bin\Release\DAL.pdb
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Casting\KarachiCasting\DAL\bin\Release\BusinessEntities.dll
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Casting\KarachiCasting\DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Casting\KarachiCasting\DAL\bin\Release\BusinessEntities.pdb
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Casting\KarachiCasting\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Casting\KarachiCasting\DAL\obj\Release\DAL.dll
+C:\Users\Hassan\Documents\Visual Studio 2013\Projects\Bringoo\Casting\KarachiCasting\DAL\obj\Release\DAL.pdb
+E:\Bringoo\Casting\KarachiCasting - Copy\DAL\bin\Release\DAL.dll
+E:\Bringoo\Casting\KarachiCasting - Copy\DAL\bin\Release\DAL.pdb
+E:\Bringoo\Casting\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.dll
+E:\Bringoo\Casting\KarachiCasting - Copy\DAL\bin\Release\Newtonsoft.Json.dll
+E:\Bringoo\Casting\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.pdb
+E:\Bringoo\Casting\KarachiCasting - Copy\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\Bringoo\Casting\KarachiCasting - Copy\DAL\obj\Release\DAL.dll
+E:\Bringoo\Casting\KarachiCasting - Copy\DAL\obj\Release\DAL.pdb
+\\bringootechserver\E\J Drive Data\HassanBackup\KarachiCasting - Copy\DAL\bin\Release\DAL.dll
+\\bringootechserver\E\J Drive Data\HassanBackup\KarachiCasting - Copy\DAL\bin\Release\DAL.pdb
+\\bringootechserver\E\J Drive Data\HassanBackup\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.dll
+\\bringootechserver\E\J Drive Data\HassanBackup\KarachiCasting - Copy\DAL\bin\Release\Newtonsoft.Json.dll
+\\bringootechserver\E\J Drive Data\HassanBackup\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.pdb
+\\bringootechserver\E\J Drive Data\HassanBackup\KarachiCasting - Copy\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+\\bringootechserver\E\J Drive Data\HassanBackup\KarachiCasting - Copy\DAL\obj\Release\DAL.dll
+\\bringootechserver\E\J Drive Data\HassanBackup\KarachiCasting - Copy\DAL\obj\Release\DAL.pdb
+\\SERVERPC\Data\Out Of Foler Data\J Drive Data\HassanBackup\KarachiCasting - Copy\DAL\bin\Release\DAL.dll
+\\SERVERPC\Data\Out Of Foler Data\J Drive Data\HassanBackup\KarachiCasting - Copy\DAL\bin\Release\DAL.pdb
+\\SERVERPC\Data\Out Of Foler Data\J Drive Data\HassanBackup\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.dll
+\\SERVERPC\Data\Out Of Foler Data\J Drive Data\HassanBackup\KarachiCasting - Copy\DAL\bin\Release\Newtonsoft.Json.dll
+\\SERVERPC\Data\Out Of Foler Data\J Drive Data\HassanBackup\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.pdb
+\\SERVERPC\Data\Out Of Foler Data\J Drive Data\HassanBackup\KarachiCasting - Copy\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+\\SERVERPC\Data\Out Of Foler Data\J Drive Data\HassanBackup\KarachiCasting - Copy\DAL\obj\Release\DAL.dll
+\\SERVERPC\Data\Out Of Foler Data\J Drive Data\HassanBackup\KarachiCasting - Copy\DAL\obj\Release\DAL.pdb
+\\Hassan-pc\e\KarachiCasting - Copy\DAL\bin\Release\DAL.dll
+\\Hassan-pc\e\KarachiCasting - Copy\DAL\bin\Release\DAL.pdb
+\\Hassan-pc\e\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.dll
+\\Hassan-pc\e\KarachiCasting - Copy\DAL\bin\Release\Newtonsoft.Json.dll
+\\Hassan-pc\e\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.pdb
+\\Hassan-pc\e\KarachiCasting - Copy\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+\\Hassan-pc\e\KarachiCasting - Copy\DAL\obj\Release\DAL.dll
+\\Hassan-pc\e\KarachiCasting - Copy\DAL\obj\Release\DAL.pdb
+\\server-pc\F\HassanBackup\KarachiCasting - Copy\DAL\bin\Release\DAL.dll
+\\server-pc\F\HassanBackup\KarachiCasting - Copy\DAL\bin\Release\DAL.pdb
+\\server-pc\F\HassanBackup\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.dll
+\\server-pc\F\HassanBackup\KarachiCasting - Copy\DAL\bin\Release\Newtonsoft.Json.dll
+\\server-pc\F\HassanBackup\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.pdb
+\\server-pc\F\HassanBackup\KarachiCasting - Copy\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+\\server-pc\F\HassanBackup\KarachiCasting - Copy\DAL\obj\Release\DAL.dll
+\\server-pc\F\HassanBackup\KarachiCasting - Copy\DAL\obj\Release\DAL.pdb
+C:\Users\salman\Desktop\KarachiCasting - Copy\DAL\bin\Release\DAL.dll
+C:\Users\salman\Desktop\KarachiCasting - Copy\DAL\bin\Release\DAL.pdb
+C:\Users\salman\Desktop\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.dll
+C:\Users\salman\Desktop\KarachiCasting - Copy\DAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\salman\Desktop\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.pdb
+C:\Users\salman\Desktop\KarachiCasting - Copy\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\salman\Desktop\KarachiCasting - Copy\DAL\obj\Release\DAL.dll
+C:\Users\salman\Desktop\KarachiCasting - Copy\DAL\obj\Release\DAL.pdb
+E:\handover hassan\KarachiCasting - Copy\DAL\bin\Release\DAL.dll
+E:\handover hassan\KarachiCasting - Copy\DAL\bin\Release\DAL.pdb
+E:\handover hassan\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.dll
+E:\handover hassan\KarachiCasting - Copy\DAL\bin\Release\Newtonsoft.Json.dll
+E:\handover hassan\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.pdb
+E:\handover hassan\KarachiCasting - Copy\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\handover hassan\KarachiCasting - Copy\DAL\obj\Release\DAL.dll
+E:\handover hassan\KarachiCasting - Copy\DAL\obj\Release\DAL.pdb
+E:\my things\handover hassan\KarachiCasting - Copy\DAL\bin\Release\DAL.dll
+E:\my things\handover hassan\KarachiCasting - Copy\DAL\bin\Release\DAL.pdb
+E:\my things\handover hassan\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.dll
+E:\my things\handover hassan\KarachiCasting - Copy\DAL\bin\Release\Newtonsoft.Json.dll
+E:\my things\handover hassan\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.pdb
+E:\my things\handover hassan\KarachiCasting - Copy\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\my things\handover hassan\KarachiCasting - Copy\DAL\obj\Release\DAL.dll
+E:\my things\handover hassan\KarachiCasting - Copy\DAL\obj\Release\DAL.pdb
+E:\projects\handover hassan\KarachiCasting - Copy\DAL\bin\Release\DAL.dll
+E:\projects\handover hassan\KarachiCasting - Copy\DAL\bin\Release\DAL.pdb
+E:\projects\handover hassan\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.dll
+E:\projects\handover hassan\KarachiCasting - Copy\DAL\bin\Release\Newtonsoft.Json.dll
+E:\projects\handover hassan\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.pdb
+E:\projects\handover hassan\KarachiCasting - Copy\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\projects\handover hassan\KarachiCasting - Copy\DAL\obj\Release\DAL.dll
+E:\projects\handover hassan\KarachiCasting - Copy\DAL\obj\Release\DAL.pdb
+D:\17 december backups\handover hassan\KarachiCasting - Copy\DAL\bin\Release\DAL.dll
+D:\17 december backups\handover hassan\KarachiCasting - Copy\DAL\bin\Release\DAL.pdb
+D:\17 december backups\handover hassan\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.dll
+D:\17 december backups\handover hassan\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.pdb
+D:\17 december backups\handover hassan\KarachiCasting - Copy\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\17 december backups\handover hassan\KarachiCasting - Copy\DAL\obj\Release\DAL.dll
+D:\17 december backups\handover hassan\KarachiCasting - Copy\DAL\obj\Release\DAL.pdb
+D:\copy of all\17 december backups\handover hassan\KarachiCasting - Copy\DAL\bin\Release\DAL.dll
+D:\copy of all\17 december backups\handover hassan\KarachiCasting - Copy\DAL\bin\Release\DAL.pdb
+D:\copy of all\17 december backups\handover hassan\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.dll
+D:\copy of all\17 december backups\handover hassan\KarachiCasting - Copy\DAL\bin\Release\BusinessEntities.pdb
+D:\copy of all\17 december backups\handover hassan\KarachiCasting - Copy\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\copy of all\17 december backups\handover hassan\KarachiCasting - Copy\DAL\obj\Release\DAL.dll
+D:\copy of all\17 december backups\handover hassan\KarachiCasting - Copy\DAL\obj\Release\DAL.pdb
+F:\Bringoo\Jewel\JewelApi\WebAPI\DAL\bin\Release\DAL.dll
+F:\Bringoo\Jewel\JewelApi\WebAPI\DAL\bin\Release\DAL.pdb
+F:\Bringoo\Jewel\JewelApi\WebAPI\DAL\bin\Release\BusinesEntities.dll
+F:\Bringoo\Jewel\JewelApi\WebAPI\DAL\bin\Release\BusinesEntities.pdb
+F:\Bringoo\Jewel\JewelApi\WebAPI\DAL\bin\Release\BusinesEntities.dll.config
+F:\Bringoo\Jewel\JewelApi\WebAPI\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+F:\Bringoo\Jewel\JewelApi\WebAPI\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+F:\Bringoo\Jewel\JewelApi\WebAPI\DAL\obj\Release\DAL.csproj.CopyComplete
+F:\Bringoo\Jewel\JewelApi\WebAPI\DAL\obj\Release\DAL.dll
+F:\Bringoo\Jewel\JewelApi\WebAPI\DAL\obj\Release\DAL.pdb
+E:\JewelWeb\WebAPI\DAL\bin\Release\DAL.dll
+E:\JewelWeb\WebAPI\DAL\bin\Release\DAL.pdb
+E:\JewelWeb\WebAPI\DAL\bin\Release\BusinesEntities.dll
+E:\JewelWeb\WebAPI\DAL\bin\Release\BusinesEntities.pdb
+E:\JewelWeb\WebAPI\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\JewelWeb\WebAPI\DAL\obj\Release\DAL.dll
+E:\JewelWeb\WebAPI\DAL\obj\Release\DAL.pdb
+E:\OrderApi\DAL\bin\Release\DAL.dll
+E:\OrderApi\DAL\bin\Release\DAL.pdb
+E:\OrderApi\DAL\bin\Release\BusinesEntities.dll
+E:\OrderApi\DAL\bin\Release\BusinesEntities.pdb
+E:\OrderApi\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+E:\OrderApi\DAL\obj\Release\DAL.csproj.CopyComplete
+E:\OrderApi\DAL\obj\Release\DAL.dll
+E:\OrderApi\DAL\obj\Release\DAL.pdb
+E:\OrderAPiWorking\DAL\bin\Release\DAL.dll
+E:\OrderAPiWorking\DAL\bin\Release\DAL.pdb
+E:\OrderAPiWorking\DAL\bin\Release\BusinesEntities.dll
+E:\OrderAPiWorking\DAL\bin\Release\BusinesEntities.pdb
+E:\OrderAPiWorking\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+E:\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CopyComplete
+E:\OrderAPiWorking\DAL\obj\Release\DAL.dll
+E:\OrderAPiWorking\DAL\obj\Release\DAL.pdb
+E:\Salamn\OrderAPiWorking\DAL\bin\Release\DAL.dll
+E:\Salamn\OrderAPiWorking\DAL\bin\Release\DAL.pdb
+E:\Salamn\OrderAPiWorking\DAL\bin\Release\BusinesEntities.dll
+E:\Salamn\OrderAPiWorking\DAL\bin\Release\BusinesEntities.pdb
+E:\Salamn\OrderAPiWorking\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+E:\Salamn\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CopyComplete
+E:\Salamn\OrderAPiWorking\DAL\obj\Release\DAL.dll
+E:\Salamn\OrderAPiWorking\DAL\obj\Release\DAL.pdb
+C:\Users\E6430\Downloads\OrderAPiWorking\DAL\bin\Release\DAL.dll
+C:\Users\E6430\Downloads\OrderAPiWorking\DAL\bin\Release\DAL.pdb
+C:\Users\E6430\Downloads\OrderAPiWorking\DAL\bin\Release\BusinesEntities.dll
+C:\Users\E6430\Downloads\OrderAPiWorking\DAL\bin\Release\BusinesEntities.pdb
+C:\Users\E6430\Downloads\OrderAPiWorking\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\E6430\Downloads\OrderAPiWorking\DAL\obj\Release\DAL.dll
+C:\Users\E6430\Downloads\OrderAPiWorking\DAL\obj\Release\DAL.pdb
+C:\Users\muham\Downloads\OrderAPiWorking\OrderAPiWorking\DAL\bin\Release\DAL.dll
+C:\Users\muham\Downloads\OrderAPiWorking\OrderAPiWorking\DAL\bin\Release\DAL.pdb
+C:\Users\muham\Downloads\OrderAPiWorking\OrderAPiWorking\DAL\bin\Release\BusinesEntities.dll
+C:\Users\muham\Downloads\OrderAPiWorking\OrderAPiWorking\DAL\bin\Release\BusinesEntities.pdb
+C:\Users\muham\Downloads\OrderAPiWorking\OrderAPiWorking\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\muham\Downloads\OrderAPiWorking\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\muham\Downloads\OrderAPiWorking\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\muham\Downloads\OrderAPiWorking\OrderAPiWorking\DAL\obj\Release\DAL.dll
+C:\Users\muham\Downloads\OrderAPiWorking\OrderAPiWorking\DAL\obj\Release\DAL.pdb
+C:\Users\sufyan\Downloads\OrderAPiWorkingtosufyan 06.30.21\OrderAPiWorking\DAL\bin\Release\DAL.dll
+C:\Users\sufyan\Downloads\OrderAPiWorkingtosufyan 06.30.21\OrderAPiWorking\DAL\bin\Release\DAL.pdb
+C:\Users\sufyan\Downloads\OrderAPiWorkingtosufyan 06.30.21\OrderAPiWorking\DAL\bin\Release\BusinesEntities.dll
+C:\Users\sufyan\Downloads\OrderAPiWorkingtosufyan 06.30.21\OrderAPiWorking\DAL\bin\Release\BusinesEntities.pdb
+C:\Users\sufyan\Downloads\OrderAPiWorkingtosufyan 06.30.21\OrderAPiWorking\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\sufyan\Downloads\OrderAPiWorkingtosufyan 06.30.21\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\sufyan\Downloads\OrderAPiWorkingtosufyan 06.30.21\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\sufyan\Downloads\OrderAPiWorkingtosufyan 06.30.21\OrderAPiWorking\DAL\obj\Release\DAL.dll
+C:\Users\sufyan\Downloads\OrderAPiWorkingtosufyan 06.30.21\OrderAPiWorking\DAL\obj\Release\DAL.pdb
+D:\Order\OrderAPiWorking\DAL\bin\Release\DAL.dll
+D:\Order\OrderAPiWorking\DAL\bin\Release\DAL.pdb
+D:\Order\OrderAPiWorking\DAL\bin\Release\BusinesEntities.dll
+D:\Order\OrderAPiWorking\DAL\bin\Release\BusinesEntities.pdb
+D:\Order\OrderAPiWorking\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+D:\Order\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\Order\OrderAPiWorking\DAL\obj\Release\DAL.dll
+D:\Order\OrderAPiWorking\DAL\obj\Release\DAL.pdb
+D:\Order\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\BRINGO TECH\Z Jewellers\OrderAPiWorking\DAL\bin\Release\DAL.dll
+D:\BRINGO TECH\Z Jewellers\OrderAPiWorking\DAL\bin\Release\DAL.pdb
+D:\BRINGO TECH\Z Jewellers\OrderAPiWorking\DAL\bin\Release\BusinesEntities.dll
+D:\BRINGO TECH\Z Jewellers\OrderAPiWorking\DAL\bin\Release\BusinesEntities.pdb
+D:\BRINGO TECH\Z Jewellers\OrderAPiWorking\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+D:\BRINGO TECH\Z Jewellers\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\BRINGO TECH\Z Jewellers\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\BRINGO TECH\Z Jewellers\OrderAPiWorking\DAL\obj\Release\DAL.dll
+D:\BRINGO TECH\Z Jewellers\OrderAPiWorking\DAL\obj\Release\DAL.pdb
+D:\BRINGO TECH\ZJewellers\OrderAPiWorking\DAL\bin\Release\DAL.dll
+D:\BRINGO TECH\ZJewellers\OrderAPiWorking\DAL\bin\Release\DAL.pdb
+D:\BRINGO TECH\ZJewellers\OrderAPiWorking\DAL\bin\Release\BusinesEntities.dll
+D:\BRINGO TECH\ZJewellers\OrderAPiWorking\DAL\bin\Release\BusinesEntities.pdb
+D:\BRINGO TECH\ZJewellers\OrderAPiWorking\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+D:\BRINGO TECH\ZJewellers\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\BRINGO TECH\ZJewellers\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\BRINGO TECH\ZJewellers\OrderAPiWorking\DAL\obj\Release\DAL.dll
+D:\BRINGO TECH\ZJewellers\OrderAPiWorking\DAL\obj\Release\DAL.pdb
+D:\Bingoo Tech\ZJewellers\OrderAPiWorking\DAL\bin\Release\DAL.dll
+D:\Bingoo Tech\ZJewellers\OrderAPiWorking\DAL\bin\Release\DAL.pdb
+D:\Bingoo Tech\ZJewellers\OrderAPiWorking\DAL\bin\Release\BusinesEntities.dll
+D:\Bingoo Tech\ZJewellers\OrderAPiWorking\DAL\bin\Release\BusinesEntities.pdb
+D:\Bingoo Tech\ZJewellers\OrderAPiWorking\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+D:\Bingoo Tech\ZJewellers\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\Bingoo Tech\ZJewellers\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\Bingoo Tech\ZJewellers\OrderAPiWorking\DAL\obj\Release\DAL.dll
+D:\Bingoo Tech\ZJewellers\OrderAPiWorking\DAL\obj\Release\DAL.pdb
+D:\Bringoo Tech\Z Jewellers\OrderAPiWorking\DAL\bin\Release\DAL.dll
+D:\Bringoo Tech\Z Jewellers\OrderAPiWorking\DAL\bin\Release\DAL.pdb
+D:\Bringoo Tech\Z Jewellers\OrderAPiWorking\DAL\bin\Release\BusinesEntities.dll
+D:\Bringoo Tech\Z Jewellers\OrderAPiWorking\DAL\bin\Release\BusinesEntities.pdb
+D:\Bringoo Tech\Z Jewellers\OrderAPiWorking\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+D:\Bringoo Tech\Z Jewellers\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\Bringoo Tech\Z Jewellers\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\Bringoo Tech\Z Jewellers\OrderAPiWorking\DAL\obj\Release\DAL.dll
+D:\Bringoo Tech\Z Jewellers\OrderAPiWorking\DAL\obj\Release\DAL.pdb
+D:\BringoTech\_local\OrderAPiWorking\DAL\bin\Release\DAL.dll
+D:\BringoTech\_local\OrderAPiWorking\DAL\bin\Release\DAL.pdb
+D:\BringoTech\_local\OrderAPiWorking\DAL\bin\Release\BusinesEntities.dll
+D:\BringoTech\_local\OrderAPiWorking\DAL\bin\Release\BusinesEntities.pdb
+D:\BringoTech\_local\OrderAPiWorking\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+D:\BringoTech\_local\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\BringoTech\_local\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\BringoTech\_local\OrderAPiWorking\DAL\obj\Release\DAL.dll
+D:\BringoTech\_local\OrderAPiWorking\DAL\obj\Release\DAL.pdb
+F:\BringoTech\fultosufi\_local\OrderAPiWorking\DAL\bin\Release\DAL.dll
+F:\BringoTech\fultosufi\_local\OrderAPiWorking\DAL\bin\Release\DAL.pdb
+F:\BringoTech\fultosufi\_local\OrderAPiWorking\DAL\bin\Release\BusinesEntities.dll
+F:\BringoTech\fultosufi\_local\OrderAPiWorking\DAL\bin\Release\BusinesEntities.pdb
+F:\BringoTech\fultosufi\_local\OrderAPiWorking\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+F:\BringoTech\fultosufi\_local\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+F:\BringoTech\fultosufi\_local\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CopyComplete
+F:\BringoTech\fultosufi\_local\OrderAPiWorking\DAL\obj\Release\DAL.dll
+F:\BringoTech\fultosufi\_local\OrderAPiWorking\DAL\obj\Release\DAL.pdb
+F:\BringoTech\fultosufi\fulltosufi09-29-22\OrderAPiWorking\DAL\bin\Release\DAL.dll
+F:\BringoTech\fultosufi\fulltosufi09-29-22\OrderAPiWorking\DAL\bin\Release\DAL.pdb
+F:\BringoTech\fultosufi\fulltosufi09-29-22\OrderAPiWorking\DAL\bin\Release\BusinesEntities.dll
+F:\BringoTech\fultosufi\fulltosufi09-29-22\OrderAPiWorking\DAL\bin\Release\BusinesEntities.pdb
+F:\BringoTech\fultosufi\fulltosufi09-29-22\OrderAPiWorking\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+F:\BringoTech\fultosufi\fulltosufi09-29-22\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+F:\BringoTech\fultosufi\fulltosufi09-29-22\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CopyComplete
+F:\BringoTech\fultosufi\fulltosufi09-29-22\OrderAPiWorking\DAL\obj\Release\DAL.dll
+F:\BringoTech\fultosufi\fulltosufi09-29-22\OrderAPiWorking\DAL\obj\Release\DAL.pdb
+F:\OrderAPiWorking\DAL\bin\Release\DAL.dll
+F:\OrderAPiWorking\DAL\bin\Release\DAL.pdb
+F:\OrderAPiWorking\DAL\bin\Release\BusinesEntities.dll
+F:\OrderAPiWorking\DAL\bin\Release\BusinesEntities.pdb
+F:\OrderAPiWorking\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+F:\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+F:\OrderAPiWorking\DAL\obj\Release\DAL.csproj.CopyComplete
+F:\OrderAPiWorking\DAL\obj\Release\DAL.dll
+F:\OrderAPiWorking\DAL\obj\Release\DAL.pdb
+C:\Users\alihu\source\repos\AzureBackEnd_Code\DAL\bin\Release\DAL.dll
+C:\Users\alihu\source\repos\AzureBackEnd_Code\DAL\bin\Release\DAL.pdb
+C:\Users\alihu\source\repos\AzureBackEnd_Code\DAL\bin\Release\BusinesEntities.dll
+C:\Users\alihu\source\repos\AzureBackEnd_Code\DAL\bin\Release\BusinesEntities.pdb
+C:\Users\alihu\source\repos\AzureBackEnd_Code\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\Users\alihu\source\repos\AzureBackEnd_Code\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\alihu\source\repos\AzureBackEnd_Code\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\alihu\source\repos\AzureBackEnd_Code\DAL\obj\Release\DAL.dll
+C:\Users\alihu\source\repos\AzureBackEnd_Code\DAL\obj\Release\DAL.pdb
+C:\Users\Saud\source\repos\BackEnd_Code\DAL\bin\Release\DAL.dll
+C:\Users\Saud\source\repos\BackEnd_Code\DAL\bin\Release\DAL.pdb
+C:\Users\Saud\source\repos\BackEnd_Code\DAL\bin\Release\BusinesEntities.dll
+C:\Users\Saud\source\repos\BackEnd_Code\DAL\bin\Release\BusinesEntities.pdb
+C:\Users\Saud\source\repos\BackEnd_Code\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\Users\Saud\source\repos\BackEnd_Code\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Saud\source\repos\BackEnd_Code\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\Saud\source\repos\BackEnd_Code\DAL\obj\Release\DAL.dll
+C:\Users\Saud\source\repos\BackEnd_Code\DAL\obj\Release\DAL.pdb

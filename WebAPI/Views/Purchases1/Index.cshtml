@@ -1,0 +1,165 @@
+﻿@model IEnumerable<BusinesEntities.Purchase>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PurchaseNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BillNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PurchaseDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AccountNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RateCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GoldRate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RefrenceNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TotalQty)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TotalWeight)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TotalPureWeight)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GoldPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TotalMaking)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TotalPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Karat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GoldPayment)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CashPayment)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GoldBalance)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CashBalance)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CurrencyCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TypeCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedOn)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.PurchaseNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BillNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PurchaseDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AccountNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RateCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GoldRate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RefrenceNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TotalQty)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TotalWeight)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TotalPureWeight)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GoldPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TotalMaking)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TotalPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Status)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Karat)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GoldPayment)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CashPayment)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GoldBalance)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CashBalance)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CurrencyCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TypeCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreatedOn)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PurchaseId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PurchaseId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PurchaseId })
+        </td>
+    </tr>
+}
+
+</table>
